@@ -47,3 +47,4 @@ function findOperator($string) {
     }
 }
 
+findOperator("15*7");
